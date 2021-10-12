@@ -1,0 +1,5 @@
+npm install react-router-dom
+libreria para utilizar rutas en la app
+
+npm install axios
+libreria para realizar consultas al API
